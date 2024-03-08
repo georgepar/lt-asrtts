@@ -1,2 +1,2 @@
 # lt-asrtts
-Repository for the ASR / TTS course for the M.Sc. in Language Technology 
+Repository for M907 "Speech Recognition & Speech Synthesis Technologies" course for the M.Sc. in Language Technology 
